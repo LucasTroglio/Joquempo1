@@ -120,8 +120,15 @@ body{
     background-color: #DBF1FF;
     display: flex;
     border-radius: 17px ;
+    justify-content: center;
+    align-items: center;
     
 }
+.move-box img{
+    width: 80%;
+    height: auto;
+}
+
 .move-box-separator{
     font-size: 104px;
     color: #ffffff;
